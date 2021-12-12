@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.media-c.ru">
+  <url>
+    <loc>http://www.media-c/home.php</loc>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://www.media-c/contact.php</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://www.media-c/services.php</loc>
+    <priority>0.6</priority>
+  </url>
+</urlset>

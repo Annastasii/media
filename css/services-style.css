@@ -1,0 +1,39 @@
+
+@media screen and (min-width:200px)
+{
+    .servicesHome {
+        margin-top: 30% !important;
+    }
+    .imgServices{
+        display:none;
+    }
+}
+@media screen and (min-width:700px)
+{
+    .servicesHome {
+        margin-top: 10% !important;
+    }
+    .imgServices{
+        display:inline;
+    }
+}
+.padding-0{
+    padding-right:0;
+    padding-left:0;
+}
+.card  i{
+    margin-left: 30%;
+    margin-top: 5%;
+}
+.card svg{
+    color:#68205F;
+}
+.card svg:hover{
+    color:#1A9EDA;
+}
+.card:hover{
+    background-color: #87CEFA !important;
+}
+.card .card-text{
+    margin-bottom: 5%;
+}

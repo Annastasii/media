@@ -1,0 +1,7 @@
+
+User-agent: *
+Allow: /home.php
+Allow: /services.php
+Allow: /contact.php
+
+Sitemap: /sitemap.xml

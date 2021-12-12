@@ -1,0 +1,65 @@
+
+@media screen and (min-width:200px)
+{
+    .form{
+        margin-top: 45%;
+    }
+}
+@media screen and (min-width:700px)
+{
+    .form{
+        margin-top: 10%;
+    }
+}
+h5{
+    margin-top: 8%;
+    font-family: monospace;
+    font-weight: bold;
+    color: #68205F;
+    margin-left: 8%;
+    margin-bottom: 1%;
+}
+h2{
+    font-family: monospace;
+    font-weight: bold;
+    color: #68205F;
+    margin-left: 8%;
+    margin-bottom: 3%;
+    text-align: center;
+}
+p{
+    font-family: monospace;
+    color: #1D1D1B;
+    margin-left: 8%;
+    margin-right: 8%;
+}
+.request {
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: rgb(153, 50, 204, 0.5);
+    border-radius: 10%;
+    padding-bottom: 5%;
+    padding-top: 3%;
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.7);
+}
+label {
+    margin-left: 15%;
+    margin-bottom: 2%;
+    color:  #1D1D1B;
+    font-family: monospace;
+}
+.btn{
+    margin-top: 3%;
+    margin-left: 40%;
+}
+.icon{
+    margin-top: 3% !important;
+    margin-left: 10%;
+    margin-bottom: 10%;
+}
+.icon svg{
+   color: #68205F;
+}
+.icon svg:hover{
+    color: #1A9EDA;
+ }
